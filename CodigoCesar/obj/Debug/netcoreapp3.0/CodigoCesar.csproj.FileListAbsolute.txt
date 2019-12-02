@@ -1,0 +1,11 @@
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.exe
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.deps.json
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.json
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\bin\Debug\netcoreapp3.0\CodigoCesar.pdb
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.csprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.AssemblyInfo.cs
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.dll
+C:\Users\Jorge\Desktop\CodigoCesar\CodigoCesar\obj\Debug\netcoreapp3.0\CodigoCesar.pdb
