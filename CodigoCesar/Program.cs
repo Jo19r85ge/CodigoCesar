@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace CodigoCesar
 {
     class Program
@@ -19,8 +18,6 @@ namespace CodigoCesar
 
         }
 
-
-        
         public static string Encriptar(string input, int desplazamientos)
         {
             string output = string.Empty;
