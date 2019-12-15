@@ -4,8 +4,8 @@ namespace CodigoCesar
 {
     class Program
     {
-
         public static char Cifrar(char texto, int desplazamientos)
+            
         {
             if (!char.IsLetter(texto))
             {
